@@ -1,5 +1,3 @@
-# College Coding Coursework
-
 This repository collects programming coursework from my college classes. It includes smaller lab exercises, practice files, data structure implementations, and a larger final project.
 
 ## Repository Structure
